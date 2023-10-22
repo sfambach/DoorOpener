@@ -1,7 +1,7 @@
 # DoorOpener
 Simple tool to open automatic garden or garage doors.
 
-##Hardware
+## Hardware
 ## Door Electronics
 <img src="./img/ConnectionPlanDoorControl.jpg">
 ### ESP01 Relay Board
