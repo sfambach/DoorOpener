@@ -1,0 +1,6 @@
+[submodule "lib/MQTTPubSubClient"]
+	path = lib/MQTTPubSubClient
+	url = https://github.com/hideakitai/MQTTPubSubClient.git
+[submodule "lib/ArduinoOTA"]
+	path = lib/ArduinoOTA
+	url = https://github.com/JAndrassy/ArduinoOTA.git
