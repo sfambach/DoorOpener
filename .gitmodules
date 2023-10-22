@@ -4,3 +4,12 @@
 [submodule "lib/ArduinoOTA"]
 	path = lib/ArduinoOTA
 	url = https://github.com/JAndrassy/ArduinoOTA.git
+[submodule "lib/ArxContainer"]
+	path = lib/ArxContainer
+	url = https://github.com/hideakitai/ArxContainer.git
+[submodule "lib/ArxTypeTraits"]
+	path = lib/ArxTypeTraits
+	url = https://github.com/hideakitai/ArxTypeTraits.git
+[submodule "lib/WiFiManager"]
+	path = lib/WiFiManager
+	url = https://github.com/tzapu/WiFiManager.git
